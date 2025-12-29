@@ -1,3 +1,5 @@
+#Task 1 Read a file and handle errors
+
 try:
     with open ("sample.txt", "rt") as fh:
         i=1
